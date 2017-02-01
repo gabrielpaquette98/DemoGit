@@ -10,7 +10,8 @@ namespace DemoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            //commenya
+            Console.WriteLine("git gud");
         }
     }
 }
